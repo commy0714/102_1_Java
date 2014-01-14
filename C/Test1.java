@@ -45,6 +45,7 @@ class Test1{
 		b=scanner.nextInt();
 		switch(b){
 		        case 1:
+					//排序全都是由高至低，序號排序也是？　
 			        for( i=0;i<score.length;i++){
 		   	            for( j=i+1;j<score[i].length;j++){
 		      		       if(score[i][0]<score[j][0]){

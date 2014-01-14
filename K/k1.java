@@ -1,5 +1,11 @@
 import java.util.*;
 
+/*
+	此程式根本不需使用三個CLASS，題目中也沒有規定要用，合理認定為只要將兩種方法寫在一個CLASS當中即可。
+	依照使用者的輸入，選擇對應的function，此解答錯誤。
+	另外，此題目並無要求方法是否回傳回main再印出，因此不管有無回傳，只要能印出結果都應算正確。
+*/
+
 class ctf{
 	double c,f=0;
 	void CF(double C){

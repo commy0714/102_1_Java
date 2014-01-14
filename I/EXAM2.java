@@ -20,7 +20,7 @@ class EXAM
 		
 		
 		for(k=0;k<5;k++){
-			System.out.println("是否要上傳資料 ? ");
+			System.out.println("是否要閱讀資料 ? ");
 			System.out.print("1.是   2.否 ");
 			int num = sc.nextInt();
 			switch(num) {
@@ -41,16 +41,16 @@ class EXAM
 								System.out.println("上傳完成");
 						}	
 					}
-					k=5;
+					k=5;     //break;
 					break;
 				case 2:
-					System.out.println("取消上傳 ?");
+					System.out.println("結束閱讀 ?");
 					System.out.print("1.是   2.否 : ");
 					num2 = sc.nextInt();
 						
 			
 				if(num2 ==1){
-					k=5;
+					k=5;   //break;
 				}
 				else if(num2 ==2){
 					break;

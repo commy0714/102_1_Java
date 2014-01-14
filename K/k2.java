@@ -1,5 +1,10 @@
 import java.io.*;
-  
+ 
+/*
+	此解答雖然正確但撰寫太多無意義的程式碼，許多程式碼可轉成function或是物件化，計算星座也沒有利用一個月幾天的概念。
+	顯示即修改應使用簡單的function，並且利用天數計算的方式來決定星座，而非判斷月份加日期，造成過多的switch case。
+*/
+ 
 class k2{  
     public static void main (String[] args) throws IOException{  
         BufferedReader br=  

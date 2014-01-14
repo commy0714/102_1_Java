@@ -41,7 +41,7 @@ public class E_Q2{
 		System.out.println("First:"+dr.ToFirst(total));
 	}
 }
-class Turn{
+class Tu{
 	public  int Num(String check){
 		String[] numEng={"and","one","two","three","four","five","six","seven","eight","nine"};
 		String[] numEng2={"ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen", "nineteenth"};
