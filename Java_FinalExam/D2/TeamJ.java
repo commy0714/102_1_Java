@@ -1,4 +1,4 @@
-
+//可惜沒轉出(只有第一次輸入的轉換是正確的，不過轉換邏輯是對的，很可惜)
 import java.util.Scanner;
 import java.io.*;
 public class TeamJ {
