@@ -1,3 +1,4 @@
+//這題邏輯須在想想(尤其是對符號的處理)
 import java.util.Stack;
 import java.io.*;
 
@@ -109,4 +110,3 @@ public class Team_G
 		else return 0;
 	}
 }
-

@@ -1,3 +1,4 @@
+//產生Exception，並且沒存到ans.txt。
 import java.util.Stack;
 import java.io.*;
 
