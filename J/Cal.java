@@ -7,7 +7,7 @@ public class Cal {
 		String []to5={"V","L","D","V"};// 5 50 500 5000
 		String []to4={"IV","XL","CD","MV"};// 4 40 400 4000
 		String []to1={"I","X","C","M"};// 1 10 100 1000
-		
+		123132131
 		Scanner sc=new Scanner(System.in);
 		
 		int n=sc.nextInt();
